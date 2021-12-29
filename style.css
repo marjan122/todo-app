@@ -1,0 +1,72 @@
+body{
+    background-color: grey;
+}
+
+.todo{
+color: black;
+border-bottom: 5px solid gold;
+font-family: sans-serif;
+padding-left: 570px;
+font-size: 35px;
+}
+.inptxt{
+    background-color: black;
+    width: 400px;
+    color: gold;
+    font-family: sans-serif;
+    font-size: 40px;
+    height: 50px;
+    position: absolute;
+    left: 460px;
+}
+
+.todoadd{
+    color: gold;
+    width: 204px;
+    height: 50px;
+    font-size: 25px;
+    background-color: black;
+position: absolute;
+top: 143px;
+left: 460px;
+}
+.todoadd:hover{
+    border: 3px dashed black;
+    background-color: white;
+    color: goldenrod;
+}
+
+.delall{
+    color: goldenrod;
+    width: 204px;
+    height: 50px;
+    font-size: 25px;
+    background-color:black;
+position: absolute;
+top: 143px;
+left: 665px;
+}
+.delall:hover{
+    border: 3px dashed black;
+    background-color: white;
+    color: goldenrod;
+}
+.btn{
+ color: purple;
+ background-color: gold ;
+ font-size: 20px;
+ margin-top: 140px;
+ position: absolute;
+ left: 700px;
+background-color: black;
+}
+.btn4you{
+    color: purple;
+    font-size: 20px;
+    width: 50px;
+    margin-top: 140px;
+    position: absolute;
+    left: 500px;
+   background-color: black;
+   }
+   
